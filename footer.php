@@ -1,7 +1,7 @@
 
       <div class="footer" id="divFooter">
         <p class="text-left">&copy; Kissyface Interactive, LLC 2014</p>
-        <p class="text-right">Basic CSS by <a href="http://getbootstrap.com">Bootstrap</a>.<br/>Code found on <a href="https://github.com/codefastapps/KissyfaceWebsite">Github</a>.</p>
+        <p class="text-right">Basic CSS by <a href="http://getbootstrap.com">Bootstrap</a>.<br/>Site code on<a href="https://github.com/codefastapps/KissyfaceWebsite">Github</a>.</p>
       </div>
 
     </div> <!-- /container -->
