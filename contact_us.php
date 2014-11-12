@@ -10,11 +10,11 @@
 	  <div class="row marketing">
         <div class="col-lg-6">
           <h4>Phone</h4>
-          <p>406-309-2409</p>
+          <p>406-407-4451</p>
         </div>
         <div class="col-lg-6">
           <h4>Email</h4>
-          <p><a href="mailto:support@kissyfaceinteractive.com">support@kissyfaceinteractive.com</a></p>
+          <p><a href="mailto:shawn@kissyfaceinteractive.com">shawn@kissyfaceinteractive.com</a></p>
     	</div>
       </div>
 
