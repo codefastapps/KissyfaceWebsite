@@ -16,6 +16,9 @@
     <!-- Custom styles for this template -->
     <link href="jumbotron-narrow.css" rel="stylesheet">
 
+	<!-- CSS for site -->
+    <link href="custom-site.css" rel="stylesheet">
+
     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
     <script src="ie10-viewport-bug-workaround.js"></script>
 
@@ -25,12 +28,7 @@
       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
     
-    <style>
-    	.app_image{
-    		max-width: 100%;
-    		max-height: 100%;
-    	}
-    </style>
+    
     
     
     
